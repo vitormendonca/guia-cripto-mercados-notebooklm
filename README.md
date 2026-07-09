@@ -3,7 +3,7 @@
 
 Projeto desenvolvido como desafio da [DIO](https://www.dio.me/), utilizando o **NotebookLM** como ferramenta de estudo assistido por IA para explorar a crescente integração entre o mercado financeiro tradicional (ações, juros, indicadores macroeconômicos) e o mercado de criptomoedas.
 
-## 🔗 Caderno no NotebookLM
+###🔗 Caderno no NotebookLM
 Acesse o caderno com as fontes e o histórico de prompts: [Abrir no NotebookLM](https://notebooklm.google.com/notebook/731e16c7-6d06-4238-b0cc-083cbdb35cef)
 ---
 
