@@ -2,7 +2,6 @@
 
 ### Projeto DIO(Bootcamp Bradesco - GenAI, Dados & Cyber) — Criando um Guia de Estudos com NotebookLM
 
-Acesse o caderno no NotebookLM->
 [Abrir no NotebookLM](https://notebooklm.google.com/notebook/731e16c7-6d06-4238-b0cc-083cbdb35cef)
 ---
 
