@@ -1,5 +1,5 @@
 # 📊 Relação entre Mercados Tradicionais e Criptomoedas
-### Projeto DIO — Criando um Guia de Estudos com NotebookLM
+### Projeto DIO(Bootcamp Bradesco - GenAI, Dados & Cyber) — Criando um Guia de Estudos com NotebookLM
 
 Projeto desenvolvido como desafio da [DIO](https://www.dio.me/), utilizando o **NotebookLM** como ferramenta de estudo assistido por IA para explorar a crescente integração entre o mercado financeiro tradicional (ações, juros, indicadores macroeconômicos) e o mercado de criptomoedas.
 
@@ -110,5 +110,5 @@ A evidência técnica é o salto na correlação de retornos, que era quase nula
 - **Claude** — apoio na curadoria de fontes, estruturação da transcrição e engenharia de prompts
 
 ## ✍️ Autor
-
-Projeto desenvolvido para o desafio da DIO. Conecte-se comigo: [LinkedIn](https://www.linkedin.com/in/fsmvitor/)
+Vitor Mendonça. Conecte-se comigo: [LinkedIn](https://www.linkedin.com/in/fsmvitor/)
+Projeto desenvolvido para o desafio da DIO no Bootcamp Bradesco - GenAI, Dados & Cyber.
