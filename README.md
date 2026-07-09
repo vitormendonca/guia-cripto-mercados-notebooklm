@@ -1,11 +1,11 @@
 # 📊 Relação entre Mercados Tradicionais e Criptomoedas
+###🔗 Caderno no NotebookLM
+Acesse -> [Abrir no NotebookLM](https://notebooklm.google.com/notebook/731e16c7-6d06-4238-b0cc-083cbdb35cef)
+---
 ### Projeto DIO(Bootcamp Bradesco - GenAI, Dados & Cyber) — Criando um Guia de Estudos com NotebookLM
 
 Projeto desenvolvido como desafio da [DIO](https://www.dio.me/), utilizando o **NotebookLM** como ferramenta de estudo assistido por IA para explorar a crescente integração entre o mercado financeiro tradicional (ações, juros, indicadores macroeconômicos) e o mercado de criptomoedas.
 
-###🔗 Caderno no NotebookLM
-Acesse o caderno com as fontes e o histórico de prompts: [Abrir no NotebookLM](https://notebooklm.google.com/notebook/731e16c7-6d06-4238-b0cc-083cbdb35cef)
----
 
 ## 🎯 Objetivos
 - Esquematizar o conhecimento da relação do mercado financeiro tradicional com o mercado cripto, com fundamentos históricos e índices indicativos, compreendendo o motivo e como analisar com previsibilidade as reações agressivas do comportamento das criptos, com indicadores e suas reações relativas aos índices tradicionais da bolsa financeira e aos players internacionais.
