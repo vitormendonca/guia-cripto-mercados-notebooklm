@@ -9,6 +9,7 @@ Projeto desenvolvido como desafio da [DIO](https://www.dio.me/), utilizando o **
 - Esquematizar o conhecimento da relação do mercado financeiro tradicional com o mercado cripto, com fundamentos históricos e índices indicativos, compreendendo o motivo e como analisar com previsibilidade as reações agressivas do comportamento das criptos, com indicadores e suas reações relativas aos índices tradicionais da bolsa financeira e aos players internacionais.
 
 ## 📚 Fontes utilizadas no caderno
+- A escolha das fontes foi feita através de pesquisas sobre documentos essenciais e fundamentais, por exemplo, a documentação oficial do bitcoin, assim como análises marco entre os dois mercados, momentos críticos, como a pandemia e o impacto nos mercados, finalmente analises atuais com especialistas de trading e índices correlativos e consequentes entre os mercados.
 
 | # | Fonte | Origem |
 |---|---|---|
